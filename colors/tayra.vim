@@ -1,6 +1,6 @@
 " Tayra: Vim color scheme
 " Designed to be used in terminal mode only. GUI is not supported.
-" Based on wombat256mod color scheme by bmdavll.
+" Based on wombat256 color scheme by bmdavll.
 
 set background=dark
 
